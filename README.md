@@ -38,7 +38,7 @@ The project aims to:
 - Shows the average sulfur dioxide (SO2) concentration in the atmosphere.
 - Highlights cities with high SO2 levels, known to contribute to respiratory problems and acid rain.
 
-  ### 8. Average PM 2.5 Levels
+### 8. Average PM 2.5 Levels
 - Monitors the average levels of PM 2.5, a critical air pollutant with harmful effects on health.
 - Focuses on regions with high particulate matter pollution.
 
@@ -47,5 +47,5 @@ The project aims to:
 - **Line Chart:** Displays the yearly AQI trend, highlighting changes in air quality over time.
 - **Stacked Bar Chart:** Displays the Cities with the highest and lowest AQI.
 
-  ## Conclusion
+## Conclusion
 This Power BI project serves as a data-driven tool to monitor and analyze air quality in India, identifying pollution trends and contributing factors. It provides a clear overview to take data-backed actions towards improving Air quality.
